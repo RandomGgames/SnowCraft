@@ -1,0 +1,27 @@
+{
+    "comments": [
+        "Pack Format 48 = 1.21",
+        "Pack Format 88 = 1.21.10"
+    ],
+    "pack": {
+        "pack_format": 88,
+        "supported_formats": [
+            48,
+            88
+        ],
+        "description": [
+            {
+                "text": "Snow Craft",
+                "color": "yellow"
+            },
+            {
+                "text": "\nCreated By: ",
+                "color": "gold"
+            },
+            {
+                "text": "RandomGgames",
+                "color": "#00ff00"
+            }
+        ]
+    }
+}
