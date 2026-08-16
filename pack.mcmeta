@@ -19,16 +19,17 @@
         "Pack Format 80 = 1.21.6",
         "Pack Format 81 = 1.21.7-1.21.8",
         "Pack Format 88 = 1.21.9-1.21.10",
-        "Pack Format 94.1 = 1.21.11"
+        "Pack Format 94.1 = 1.21.11",
+        "Pack Format 101.1 = 26.1-26.1.2",
+        "Pack Format 107.1 = 26.2"
     ],
     "pack": {
-        "min_format": [
-            82,
-            0
-        ],
-        "max_format": [
-            94,
-            1
+        "pack_format": 101.1,
+        "min_format": 101.1,
+        "max_format": 107.1,
+        "supported_formats": [
+            101.1,
+            107.1
         ],
         "description": [
             {
